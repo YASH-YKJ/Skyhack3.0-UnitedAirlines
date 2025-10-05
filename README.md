@@ -1,4 +1,4 @@
-# Flight Difficulty Score - United Airlines SkyHack 2.0
+# Flight Difficulty Score - United Airlines SkyHack 3.0
 
 ## Project Overview
 
