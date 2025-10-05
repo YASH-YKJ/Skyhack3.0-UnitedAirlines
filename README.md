@@ -9,8 +9,8 @@ The analysis uses five datasets spanning two weeks of departures from ORD, cover
 ## Files in this Submission
 
 1.  **`presentation.pdf`**: The main report and presentation deck summarizing the project's methodology, findings, and recommendations.
-2.  **`test_yash.csv`**: The required output file containing the final difficulty score and class for each flight.
-3.  **`analysis.ipynb`**: The complete Jupyter Notebook containing the Python code for data processing, feature engineering, and score calculation.
+2.  **`Pairadox.csv`**: The required output file containing the final difficulty score and class for each flight.
+3.  **`main.ipynb`**: The complete Jupyter Notebook containing the Python code for data processing, feature engineering, and score calculation.
 4.  **`requirements.txt`**: A list of the required Python libraries to run the notebook.
 5.  **`README.md`**: This file.
 
